@@ -4,4 +4,4 @@ This program is intended to create a recommendation of diversified portfolio opt
 * Expected return, and
 * Volatility
 
-This package is heavily dependent on the yfinance package as the data source.
+This package is heavily dependent on the yfinance package (https://github.com/ranaroussi/yfinance) as the data source. 
